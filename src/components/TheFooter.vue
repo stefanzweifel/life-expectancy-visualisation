@@ -24,7 +24,7 @@
     >
       Made by
       <a
-        href="https://stefanzweifel.io"
+        href="https://stefanzweifel.dev"
         target="_blank"
         class="underline hover:no-underline"
         >Stefan Zweifel</a
